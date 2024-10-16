@@ -92,7 +92,7 @@ export default function Footer() {
       <div className='mt-6 text-center'>
         <p className='text-sm'>
           © 2024 All rights reserved by{' '}
-          <span className='font-semibold'>Atul Tiwari</span>
+          <span className='font-semibold'>OnlineMarket</span>
         </p>
       </div>
     </footer>
